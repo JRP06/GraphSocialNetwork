@@ -14,6 +14,6 @@ structure.
 **Version 1 Complete: Core functionalities implemented; currently expanding scalability and adding community detection features**
 
 ## 🛠️ Tech Stack
-Java
-IntelliJ IDEA
-Git & GitHub
+**Java**
+**IntelliJ IDEA**
+**Git & GitHub**
