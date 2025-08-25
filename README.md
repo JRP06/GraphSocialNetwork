@@ -15,5 +15,7 @@ structure.
 
 ## 🛠️ Tech Stack
 **Java**
+
 **IntelliJ IDEA**
+
 **Git & GitHub**
